@@ -1,7 +1,5 @@
 # Backend Engineer Application Portal
 
-A modern, multi-step web application portal for backend engineer job applications featuring interactive UI components, form validation, and smooth step transitions.
-
 ## Overview
 
 This project is a fully functional job application portal specifically designed for backend engineering positions. It demonstrates professional web development practices with a clean, user-friendly interface that guides applicants through a three-step process: job details review, application form submission, and terms & conditions agreement.
@@ -142,4 +140,5 @@ This project demonstrates proficiency in:
 ---
 
 *Note: This is a demonstration project showcasing front-end development capabilities. In a production environment, additional considerations for data security, server-side validation, and compliance with employment regulations would be necessary.*
+
 
